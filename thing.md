@@ -11,3 +11,5 @@
 3. Now what?
 
 [Contribution guidelines for this project](IMG_1306.JPG)
+
+![hmmm]: IMG_1306.JPG
