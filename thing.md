@@ -10,4 +10,4 @@
 2. Yes. 
 3. Now what?
 
-(IMG_1306.JPG)
+[Contribution guidelines for this project](IMG_1306.JPG)
