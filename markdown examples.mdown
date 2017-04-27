@@ -1,0 +1,46 @@
+# Heading one largest
+...
+###### Heading six smallest
+
+**bold text**
+*italics text*
+~~strikethrough~~
+**_bold and italic_**
+
+This could be a source
+> and this could be a quote
+
+Blah blah `inline code` blah blah 
+
+``` 
+code block
+git init
+more.code
+``` 
+
+You can make inline link with [link text](url)
+
+relative links[sample](sample.md) link to other files in your repo. 
+(./blah)
+(../blah.blah)
+same relative syntax
+
+- List item one
+- list item two
+- list item three
+
+1. Ordered list 1
+2. Ordered list 2
+3. Ordered list 3
+  1. two space indentation 
+  2. creates nested items
+  	- of both
+  	- types
+
+- [ ] Task 1
+- [x] Completed task
+
+1. [x] Must be a list item
+
+\*ignore italic formatting*\
+
