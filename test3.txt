@@ -1,0 +1,3 @@
+ok
+
+so in this terminal, we can actually run vim, which is pretty cool.
